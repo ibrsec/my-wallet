@@ -18,6 +18,15 @@ form.addEventListener("click",(e)=>{
         saveOutGoings();
         calculateRemaining();
 
+        if(result < 0){
+            document.querySelector(".remaining-result").style.color = 'red';
+            document.querySelector(".remaining-result").previousElementSibling.style.color = 'red';
+        }else{
+            document.querySelector(".remaining-result").style.color = 'black';
+            document.querySelector(".remaining-result").previousElementSibling.style.color = 'black';
+    
+        }
+
     }else if(e.target.id == "cleanBtn"){
         console.log(e.target);
         e.target.closest("form").querySelector("#table-body").textContent = "";
