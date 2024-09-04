@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ibrsec/my-wallet/">
-    <img src="./img/seach.png.png" alt="Logo" width="200" >
+    <img src="./img/logo.png" alt="Logo" width="200" >
   </a>
 
   <h3 align="center">Wallet App</h3>
