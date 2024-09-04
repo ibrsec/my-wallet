@@ -15,7 +15,7 @@
     <a href="https://github.com/ibrsec/my-wallet"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/my-wallet/">View Demo</a>
+    <a href="https://my-wallet-rouge.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/my-wallet/issues">Report Bug</a>
     ·
@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![my-wallet](./img/project.png)](https://ibrsec.github.io/my-wallet/)
+[![my-wallet](./img/project.png)](https://my-wallet-rouge.vercel.app/)
 
 
 
